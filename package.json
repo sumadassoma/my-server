@@ -1,7 +1,7 @@
 {
-  "name": "my-server",
+  "name": "node-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple node server",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suma-gitrep/my-server.git"
+    "url": "node-server"
   },
-  "author": "suma soma",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/suma-gitrep/my-server/issues"
-  },
-  "homepage": "https://github.com/suma-gitrep/my-server#readme"
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "web",
+    "server"
+  ],
+  "author": "Denise Case",
+  "license": "MIT"
 }
